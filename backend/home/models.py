@@ -6,3 +6,6 @@ class Test(models.Model):
 class Eed(models.Model):
     'Generated Model'
     rf = models.BigIntegerField()
+class Hello(models.Model):
+    'Generated Model'
+    check = models.BigIntegerField()
